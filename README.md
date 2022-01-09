@@ -18,13 +18,15 @@
     <p align='center'>
 <img src="https://profile-counter.glitch.me/vitoriaisabel/count.svg" />  
       <hr>
-  </div>    
+  </div>   
+  
+ <br>
+ <p align='center'>
     
 ![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
     
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
 
 <h2 align='center'>Obrigada pela leitura!</h2>
 
