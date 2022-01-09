@@ -27,7 +27,6 @@
 <br>
 
 <h2 align='center'>Obrigada pela leitura!</h2>
-<br>
 
 </div>  
   
