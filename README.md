@@ -1,8 +1,8 @@
 # Olá, me chamo Vitória! <img height = "50em" src = "https://giphy.com/gifs/Q6xFPLfzfsgKoKDV60" />  
 <div>  
+  <img src="./images/computer.gif" width="100%"/>
 
   <a href="https://github.com/vitoriaisabel">
-    # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=luis-gustavoj&style=flat-square&color=blueviolet">
     
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=vitoria-F5&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-F5&layout=compact&langs_count=16&theme=radical" />
