@@ -15,6 +15,7 @@
     
 <div>
 <p align='center'>
+<br>
 <img src="https://profile-counter.glitch.me/vitoriaisabel/count.svg" />  
 <hr>
 <br>
