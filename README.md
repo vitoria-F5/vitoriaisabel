@@ -18,6 +18,15 @@
    <img src="https://profile-counter.glitch.me/vitoriaisabel/count.svg" />  
   Linkedin: https://www.linkedin.com/in/vitoria-isabel-b67ab720b/
     
+## Most Used Languages 📚
+<br>
+<p align='center'>
+<img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-F5&layout=compact&langs_count=16&theme=radical" />
+</p>
+<p align='center'>
+<h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
+</p>
+  
 ![Snake animation](https://github.com/leehxd/leehxd/blob/output/github-contribution-grid-snake.svg)
        
       
