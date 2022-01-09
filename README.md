@@ -14,8 +14,11 @@
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-F5&layout=compact&langs_count=16&theme=radical" />
     
 <div>
+<p align='center'>
 <img src="https://profile-counter.glitch.me/vitoriaisabel/count.svg" />  
-    </div>
+<hr>
+<br>
+</div>
     
 Linkedin: https://www.linkedin.com/in/vitoria-isabel-b67ab720b/
     
