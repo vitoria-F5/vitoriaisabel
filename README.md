@@ -1,7 +1,7 @@
 # Olá, me chamo Vitória! 
 
 <p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="50" class="giphy-embed" allowFullScreen></img></p>
 <hr>
 
 <div> 
