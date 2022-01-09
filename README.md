@@ -3,8 +3,8 @@
 
   <a href="https://github.com/vitoriaisabel">
     
- ![image](https://user-images.githubusercontent.com/84388956/148701752-ff4121da-78b6-489a-b1f1-7f5a0813dbb7.png)
-
+    https://github.com/luis-gustavoj/luis-gustavoj/raw/main/images/computer.gif 
+    
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=vitoria-F5&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-F5&layout=compact&langs_count=16&theme=radical" />
     
