@@ -1,6 +1,7 @@
+<img src="./images/computer.gif" width="100%"/>
+
 # Olá, me chamo Vitória! <img height = "50em" src = "https://giphy.com/gifs/Q6xFPLfzfsgKoKDV60" />  
 <div>  
-  <img src="./images/computer.gif" width="100%"/>
 
   <a href="https://github.com/vitoriaisabel">
     
