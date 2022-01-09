@@ -3,8 +3,6 @@
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
-<br>
-<br>
 
 <div> 
   
@@ -14,12 +12,8 @@
   <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vitoria-F5&layout=compact&langs_count=16&theme=radical" />
     
 <div>
-<p align='center'>
-<br>
 <img src="https://profile-counter.glitch.me/vitoriaisabel/count.svg" />  
-<hr>
-<br>
-</div>
+    </div>
     
 Linkedin: https://www.linkedin.com/in/vitoria-isabel-b67ab720b/
     
