@@ -1,4 +1,4 @@
-# Olá, me chamo Vitória! <img height = "50em" src = "<iframe src="https://giphy.com/embed/Q6xFPLfzfsgKoKDV60" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Q6xFPLfzfsgKoKDV60">via GIPHY</a></p>" />  
+# Olá, me chamo Vitória! <img height = "50em" src = "https://giphy.com/gifs/Q6xFPLfzfsgKoKDV60" />  
 <div>  
 
   <a href="https://github.com/vitoriaisabel">
